@@ -1,0 +1,16 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+tests
+model_cache
+vector_db
+cache
+records
+documents
+rag_chat.db
+rag_chat.db-*
